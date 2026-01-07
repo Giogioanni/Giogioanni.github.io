@@ -1,8 +1,3 @@
---
-layout: default
-title: Appointment Service
-permalink: /artifacts/appointment-service/
---
 
 - [Appointment Service](/artifacts/appointment-service/)
 - [Enhancement: Software Design](/enhancements/software-design/)
