@@ -1,6 +1,4 @@
-# Giogioanni Capstone ePortfolio (CS 499)
-
-## Pages
+## Index
 - [Artifact: Appointment Service](/artifacts/appointment-service)
 - [Enhancement Plan: Software Design & Engineering](/enhancements/software-design)
 - [Enhancement Plan: Algorithms & Data Structures](/enhancements/algorithms-ds)
