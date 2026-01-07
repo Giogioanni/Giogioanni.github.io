@@ -1,4 +1,4 @@
-## Index
+## Giogioanni's CS499 Capstone 2026
 - [Artifact: Appointment Service](/artifacts/appointment-service)
 - [Enhancement Plan: Software Design & Engineering](/enhancements/software-design)
 - [Enhancement Plan: Algorithms & Data Structures](/enhancements/algorithms-ds)
