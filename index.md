@@ -1,5 +1,9 @@
+# Giogioanni Capstone ePortfolio (CS 499)
 
-- [Appointment Service](/artifacts/appointment-service/)
-- [Enhancement: Software Design](/enhancements/software-design/)
-- [Enhancement: Algorithms & Data Structures](/enhancements/algorithms-ds/)
-- [Enhancement: Databases](/enhancements/databases/)
+## Pages
+- [Artifact: Appointment Service](/artifacts/appointment-service)
+- [Enhancement Plan: Software Design & Engineering](/enhancements/software-design)
+- [Enhancement Plan: Algorithms & Data Structures](/enhancements/algorithms-ds)
+- [Enhancement Plan: Databases](/enhancements/databases)
+- [Code Review Video](/code-review)
+- [Professional Self-Assessment](/self-assessment)
