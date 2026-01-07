@@ -2,10 +2,14 @@ title: Giogioanni Capstone
 description: CS499 Computer Science Capstone 2026
 theme: minima
 
-header_pages:
-  - artifacts/appointment-service.md
-  - enhancements/software-design.md
-  - enhancements/algorithms-ds.md
-  - enhancements/databases.md
-  - code-review.md
-  - self-assessment.md
+index.md
+code-review.md
+self-assessment.md
+
+artifacts/
+  appointment-service.md
+
+enhancements/
+  software-design.md
+  algorithms-ds.md
+  databases.md
