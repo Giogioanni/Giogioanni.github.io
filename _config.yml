@@ -3,3 +3,11 @@ description: N/A
 remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
 - jekyll-remote-theme 
+
+header_pages:
+  - artifacts/appointment-service.md
+  - enhancements/software-design.md
+  - enhancements/algorithms-ds.md
+  - enhancements/databases.md
+  - code-review.md
+  - self-assessment.md
