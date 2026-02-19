@@ -4,13 +4,13 @@ title: "CS499 Capstone 2026"
 ---
 
 # Giogioanni's CS499 Capstone 2026
-## - [Artifact: Appointment Service](/artifacts/appointment-service)
-## - [Enhancement Plan: Software Design & Engineering](/artifacts/enhancement1/enhancement-1-software-design)
-## - [Enhancement Plan: Algorithms & Data Structures](/artifacts/enhancement2/enhancement-2-algorithms-ds)
-## - [Enhancement Plan: Databases](/artifacts/enhancement3/enhancement-3-databases)
-## - [Code Review Video](/code-review)
+### - [Artifact: Appointment Service](/artifacts/appointment-service)
+### - [Enhancement Plan: Software Design & Engineering](/artifacts/enhancement1/enhancement-1-software-design)
+### - [Enhancement Plan: Algorithms & Data Structures](/artifacts/enhancement2/enhancement-2-algorithms-ds)
+### - [Enhancement Plan: Databases](/artifacts/enhancement3/enhancement-3-databases)
+### - [Code Review Video](/code-review)
 ------------------------------------------------------
-### Professional Self-Assessment
+## Professional Self-Assessment
 
 Throughout my Computer Science program at Southern New Hampshire University, I developed a stronger technical foundation and a clearer professional direction: building reliable software that solves real problems while balancing performance, maintainability, and security. Course projects/milestones required me to move beyond “getting code to work” and instead actually focusing on engineering practices that employers expect—clean design, meaningful testing, readable documentation, and the ability to explain decisions to nontechnical audiences. Building this ePortfolio helped me bring those skills together into one cohesive story and present my growth with concrete evidence. As I prepare to enter the field, I am confident in my ability to contribute as a developer who can learn quickly, communicate clearly, and deliver solutions that are practical and secure.
 
