@@ -1,4 +1,5 @@
 # Enhancement Plan/Overview: Algorithms and Data structure
+--------------------------------------------------------------
 
 ## Justification for inclusion and how the enhancement improved the artifact
 I selected this artifact because it showcases foundational software development skills that employers should expect from the get-go: implementing clear business rules, building a service layer, and validating behavior with automated tests. This enhancements improved the adds an additional sorted index for appointments by date while still keeping the fast ID lookup structure, enabling more efficient operations for common scheduling use cases.  This overall change showcases my ability to evaluate requirements, choose appropriate data structures, and manage trade-offs between performance, memory usage, and complexity.
