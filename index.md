@@ -1,3 +1,8 @@
+---
+layout: default
+title: "CS499 Capstone 2026"
+---
+
 # Giogioanni's CS499 Capstone 2026
 ## - [Artifact: Appointment Service](/artifacts/appointment-service)
 ## - [Enhancement Plan: Software Design & Engineering](/artifacts/enhancement1/enhancement-1-software-design)
