@@ -1,5 +1,7 @@
 # Enhancement Plan/Overview: Software Design & Engineering
 --------------------------------------------------------------
+[Download Original ZIP](original.zip)
+[Download Enhanced ZIP](enhanced.zip)
 
 ## Justification for inclusion and how the enhancement improved the artifact
 I selected this artifact because it showcases foundational software development skills that employers should expect from the get-go: implementing clear business rules, building a service layer, and validating behavior with automated tests. This enhanced version I edited strengthens the artifact in three different ways. 1st I improved the robustness by replacing the mutable java.util.Date type with the immutable java.time.Instant for appointment timestamps, reducing the risk that an appointment’s date can be changed after creation. 2ndly I improved error-handling clarity by introducing more specific exception types for invalid appointments, duplicate IDs, and missing records. 3rdly I expanded the unit test suite with boundary cases and additional service behaviors like not-found lookups and delete-then-read, improving confidence that my code meets requirements and remains stable during future enhancements.
