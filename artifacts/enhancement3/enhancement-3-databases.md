@@ -1,5 +1,7 @@
 # Enhancement Plan/Overview: Databases
 -------------------------------------------
+[Download Original ZIP](original.zip)
+[Download Enhanced ZIP](Appointment-Service-main.zip)
 
 ## Justification for inclusion and how the enhancement improved the artifact
 I selected this artifact because it showcases foundational software development skills that employers should expect from the get-go: implementing clear business rules, building a service layer, and validating behavior with automated tests. My artifact was improved this module by expanding from just 1 in-memory example to a more complete and professional application component. I added a database-backed implantation using SQLite (JDBC) so appointments persist across run, which makes my project more realistic and closer to production expectations. I also made my build more solid and made the execution workflow smoother with Maven dependency management, This makes the project reproducible and easier to run across environments. I finally improved the overall reliability by ensuring my demo and tests run consistently from this standardized project structure and toolchain.
